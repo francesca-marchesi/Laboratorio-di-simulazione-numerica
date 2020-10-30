@@ -1,0 +1,7 @@
+30
+2500
+200
+  ReadInput >> N;
+  ReadInput >> N_generations;
+  ReadInput >> n; 
+
