@@ -1,0 +1,21 @@
+0.6
+0.7
+0.7
+1000
+0.0005
+100
+0.0005
+0.0
+2.5
+
+  ReadInput >> T;
+  ReadInput >> init_mu; 
+  ReadInput >> init_sigma;
+  ReadInput >> step_T;
+  ReadInput >> delta_T; 
+  ReadInput >> step_opt;
+  ReadInput >> delta_opt;
+  ReadInput >> x0; 
+  ReadInput >> delta; 
+
+  
